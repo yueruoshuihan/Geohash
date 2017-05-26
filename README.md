@@ -1,0 +1,2 @@
+# Geohash
+the geohash code
